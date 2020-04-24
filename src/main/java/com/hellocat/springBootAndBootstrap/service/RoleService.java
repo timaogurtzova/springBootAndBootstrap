@@ -1,6 +1,6 @@
-package com.hellocat.springBootTest.service;
+package com.hellocat.springBootAndBootstrap.service;
 
-import com.hellocat.springBootTest.domen.Role;
+import com.hellocat.springBootAndBootstrap.domen.Role;
 
 import java.util.List;
 

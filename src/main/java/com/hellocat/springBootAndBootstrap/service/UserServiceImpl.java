@@ -1,7 +1,7 @@
-package com.hellocat.springBootTest.service;
+package com.hellocat.springBootAndBootstrap.service;
 
-import com.hellocat.springBootTest.domen.User;
-import com.hellocat.springBootTest.repository.UserRepository;
+import com.hellocat.springBootAndBootstrap.domen.User;
+import com.hellocat.springBootAndBootstrap.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;

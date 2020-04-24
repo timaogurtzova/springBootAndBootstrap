@@ -1,4 +1,4 @@
-package com.hellocat.springBootTest.util;
+package com.hellocat.springBootAndBootstrap.util;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;

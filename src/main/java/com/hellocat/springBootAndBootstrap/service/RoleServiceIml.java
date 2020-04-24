@@ -1,10 +1,10 @@
-package com.hellocat.springBootTest.service;
+package com.hellocat.springBootAndBootstrap.service;
 
-import com.hellocat.springBootTest.domen.Role;
-import com.hellocat.springBootTest.domen.RoleType;
-import com.hellocat.springBootTest.domen.User;
-import com.hellocat.springBootTest.repository.RoleRepository;
-import com.hellocat.springBootTest.util.PostProxy;
+import com.hellocat.springBootAndBootstrap.domen.Role;
+import com.hellocat.springBootAndBootstrap.domen.RoleType;
+import com.hellocat.springBootAndBootstrap.domen.User;
+import com.hellocat.springBootAndBootstrap.repository.RoleRepository;
+import com.hellocat.springBootAndBootstrap.util.PostProxy;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

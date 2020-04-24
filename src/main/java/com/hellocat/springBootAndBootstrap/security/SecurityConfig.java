@@ -1,4 +1,4 @@
-package com.hellocat.springBootTest.security;
+package com.hellocat.springBootAndBootstrap.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

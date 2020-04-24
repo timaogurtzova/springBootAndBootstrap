@@ -1,6 +1,6 @@
-package com.hellocat.springBootTest.repository;
+package com.hellocat.springBootAndBootstrap.repository;
 
-import com.hellocat.springBootTest.domen.User;
+import com.hellocat.springBootAndBootstrap.domen.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

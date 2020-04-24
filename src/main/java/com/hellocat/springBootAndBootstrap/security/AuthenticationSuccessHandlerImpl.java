@@ -1,8 +1,8 @@
-package com.hellocat.springBootTest.security;
+package com.hellocat.springBootAndBootstrap.security;
 
-import com.hellocat.springBootTest.domen.Role;
-import com.hellocat.springBootTest.domen.RoleType;
-import com.hellocat.springBootTest.domen.User;
+import com.hellocat.springBootAndBootstrap.domen.Role;
+import com.hellocat.springBootAndBootstrap.domen.RoleType;
+import com.hellocat.springBootAndBootstrap.domen.User;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.web.authentication.AuthenticationSuccessHandler;
 

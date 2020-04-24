@@ -1,4 +1,4 @@
-package com.hellocat.springBootTest.domen;
+package com.hellocat.springBootAndBootstrap.domen;
 
 import org.springframework.security.core.GrantedAuthority;
 

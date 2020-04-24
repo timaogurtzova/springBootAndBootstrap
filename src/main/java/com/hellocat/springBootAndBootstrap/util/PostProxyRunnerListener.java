@@ -1,4 +1,4 @@
-package com.hellocat.springBootTest.util;
+package com.hellocat.springBootAndBootstrap.util;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.config.BeanDefinition;
